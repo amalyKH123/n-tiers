@@ -96,3 +96,4 @@ D:\ToDoSolution_SV\Web\obj\Debug\net9.0\refint\Web.dll
 D:\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.pdb
 D:\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.genruntimeconfig.cache
 D:\ToDoSolution_SV\Web\obj\Debug\net9.0\ref\Web.dll
+D:\ToDoSolution_SV\Web\obj\Debug\net9.0\Web.sourcelink.json

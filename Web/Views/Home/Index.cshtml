@@ -10,24 +10,27 @@
     <h1>قائمة المهام (n-tier)</h1>
     <ul>
         @foreach (var task in Model)
+{
+    <li>
+        @if(task.IsComplete)
         {
-            <li>
-                @if(task.IsComplete)
-                {
-                    <s>@task.Title</s>
-                }
-                else
-                {
-                    @task.Title
-                    <form method="post" asp-action="CompleteTask" style="display:inline;">
-                        <input type="hidden" name="id" value="@task.Id" />
-                        <button type="submit">اكتملت</button>
-                    </form>
-                }
-
-                <!-- TODO: إضافة زر حذف المهمة -->
-            </li>
+            <s>@task.Title</s>
         }
+        else
+        {
+            @task.Title
+            <form method="post" asp-action="CompleteTask" style="display:inline;">
+                <input type="hidden" name="id" value="@task.Id" />
+                <button type="submit">اكتملت</button>
+            </form>
+        }
+        <form method="post" asp-action="DeleteTask" style="display:inline; margin-right:10px;">
+            <input type="hidden" name="id" value="@task.Id" />
+            <button type="submit">حذف</button>
+        </form>
+    </li>
+}
+        
     </ul>
 
     <form method="post" asp-action="AddTask">
