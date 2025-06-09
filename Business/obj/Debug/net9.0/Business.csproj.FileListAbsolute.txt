@@ -1,0 +1,15 @@
+D:\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.deps.json
+D:\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.dll
+D:\ToDoSolution_SV\Business\bin\Debug\net9.0\Business.pdb
+D:\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.dll
+D:\ToDoSolution_SV\Business\bin\Debug\net9.0\DataAccess.pdb
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.AssemblyReference.cache
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfoInputs.cache
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.AssemblyInfo.cs
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.CoreCompileInputs.cache
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.csproj.Up2Date
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.dll
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\refint\Business.dll
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\Business.pdb
+D:\ToDoSolution_SV\Business\obj\Debug\net9.0\ref\Business.dll
